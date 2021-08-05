@@ -6,4 +6,4 @@
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                  
 |-----|----------------|---------------|--------|-------------|-------------
-|1|Two Sum|[Solution](./algorithms/cpp/0001/0001.cpp)||Easy|HashMap
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./algorithms/cpp/0001/0001.cpp)|[HashMapSolution](https://www.youtube.com/watch?v=kPXOr6pW8KM)|Easy|HashMap
