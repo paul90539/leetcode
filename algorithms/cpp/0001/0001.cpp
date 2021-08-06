@@ -2,39 +2,22 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         
-        //sort array O(n*log(n))
-        vector<int> temp(nums.begin(), nums.end());
-        sort(temp.begin(), temp.end());
+        unordered_map<int, int> mapComplex; // unordered map = hash table
+        vector<int> result(2, 0);
         
-        int i = 0, j = temp.size() - 1;
-        vector<int> res;
-        
-        //find two number O(n)
-        while (i < j) {
-            int s = temp[i] + temp[j];
-            if (s == target) {
-                res = {temp[i], temp[j]};                
-                break;
+        // loop all numbers, O(n)
+        for(int index = 0; index < nums.size(); index++){
+            
+            // hash table's search is O(1)
+            if(mapComplex.find(nums[index]) != mapComplex.end()){
+                result[0] = mapComplex[nums[index]];
+                result[1] = index;
+                return result;
             }
-            if (s < target) i++;
-            else j--;
-        }
-        
-        //find first number's locate O(n)
-        for (i = 0; i < nums.size(); i++) {
-            if (res[0] == nums[i]) {
-                res[0] = i;
-                break;
+            else{
+                mapComplex[target - nums[index]] = index;
             }
         }
-        
-        //find second number's locate O(n)
-        for (i = 0; i < nums.size(); i++) {
-            if (i != res[0] && res[1] == nums[i]) {
-                res[1] = i;
-                break;
-            }
-        }        
-        return res;
+        return result;
     }
 };
