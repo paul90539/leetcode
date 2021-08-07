@@ -27,6 +27,8 @@ DP = [... , 9,  3, 4, ?, ....]
 雖然箭頭處有形成Palindrome，但形成的結果不如不要形成，所以選擇上一個解+1
 ```
 
+最後這題是直接搬大神的，連結在下方，有詳細解釋
+
 [一維DP的解](https://leetcode.com/problems/palindrome-partitioning-ii/discuss/1239122/C%2B%2B-DP-8ms-Short-and-simple)
 
 算法效率: O(n^2)<br>
