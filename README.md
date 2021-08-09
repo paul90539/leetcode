@@ -8,6 +8,7 @@
 |-----|----------------|---------------|--------|-------------|-------------
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)||Medium|Rcursive, Tree
 |877|[Stone Game](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./algorithms/cpp/0011/0011.cpp)||Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./algorithms/cpp/0005/0005.cpp)||Medium|DP
