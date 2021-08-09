@@ -29,7 +29,7 @@ cin.tie(NULL);
 ```
 
 **ios_base::sync_with_stdio**<br>
-這個函數是一個"是否兼容stdio"的開關，C++為了兼容C，保證程式在使用了std::printf和std::cout的時候不發生混亂，將輸出流綁到了一起<br><br>
+這個函數是一個"是否兼容stdio"的開關，C++為了兼容C，保證程式在使用了std::printf和std::cout的時候不發生混亂，將輸出流綁到了一起<br>
 
 **tie**<br>
 tie是將兩個stream綁定的函數，空參數的話則返回當前的輸出流指標<br>
