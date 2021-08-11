@@ -1,12 +1,16 @@
 # leetcode
 
-自己寫過的題目紀錄，不一定會是最佳解，只是想留存方便以後回憶算法
+## 前言
+
+自己寫過的題目紀錄，不一定會是最佳解，<br>
+有個人習慣影響，像是很不愛用hashMap，<br>
+主要只是想留存方便以後回憶算法。<br>
 
 ## Problem List
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                  
 |-----|----------------|---------------|--------|-------------|-------------
-|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/0954.cpp)||Medium|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/0954.cpp)||Medium|HashMap
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/0926.cpp)||Medium|DP
 |877|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)||Medium|Rcursive, Tree
 |429|[Stone Game](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
