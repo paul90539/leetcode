@@ -18,6 +18,7 @@
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./algorithms/cpp/0036/0036.cpp)||Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./algorithms/cpp/0011/0011.cpp)||Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./algorithms/cpp/0005/0005.cpp)||Medium|DP
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./algorithms/cpp/0004/0004.cpp)|[Binary Search](https://www.youtube.com/watch?v=LPFhl65R7ww)|Hard|Divide and Conquer
