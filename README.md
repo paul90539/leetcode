@@ -3,22 +3,24 @@
 ## 前言
 
 自己寫過的題目紀錄，不一定會是最佳解，<br>
-而且有一部份的個人習慣影響，像是會很想避免使用hashMap，<br>
+而且有一部份受個人習慣影響，像是會很想避免使用hashMap，<br>
 主要只是想留存一些程式與解題思路，方便以後回憶算法。<br>
 
 ## Problem List
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                  
 |-----|----------------|---------------|--------|-------------|-------------
-|1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/1531.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/1832.cpp)||Easy|
+|1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/1531.cpp)|[DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/1448.cpp)||Medium|Tree
+|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./algorithms/cpp/1155/1155.cpp)||Medium|DP
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/0954.cpp)||Medium|HashMap
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/0926.cpp)||Medium|DP
-|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
+|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)|[DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)||Medium|Tree
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
-|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[2Dimension-DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./algorithms/cpp/0036/0036.cpp)||Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./algorithms/cpp/0011/0011.cpp)||Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./algorithms/cpp/0005/0005.cpp)||Medium|DP
