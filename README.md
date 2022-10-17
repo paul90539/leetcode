@@ -12,11 +12,13 @@
 |-----|----------------|---------------|--------|-------------|-------------
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/1832.cpp)||Easy|
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/1531.cpp)|[DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](./algorithms/cpp/1480/1480.cpp)||Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/1448.cpp)||Medium|Tree
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./algorithms/cpp/1155/1155.cpp)||Medium|DP
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/0954.cpp)||Medium|HashMap
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/0926.cpp)||Medium|DP
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)|[DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/0724.cpp)||Easy|Integral Image
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)||Medium|Tree
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
