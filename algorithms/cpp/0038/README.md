@@ -12,7 +12,7 @@
 ## C++ std::string 字串拼接效率分析
 事情是這樣的，下面三個方法都是在leetcode上跑出來的秒數，一開始我是用第三個方法，慢到起飛所以才來仔細思考這個問題。<br>
 
-``` C++
+``` cpp
 //std::string next, str;
 //int same;
 // 1. this way spend time: 0, 6, 7 ms
@@ -23,10 +23,10 @@ next += to_string(same) + str[s];
 // 3. this way spend time: 113, 120, 120 ms
 next = next + to_string(same) + str[s];
 ```
-![submitted_result](./algorithms/cpp/0038/submitted_result.png)
+![submitted_result](./submitted_result.png)
 
 **以下內容都是根據結果進行的臆測，沒有跟組語對照過，所以存在理解錯誤的可能，因此不一定正確<br>
-但要說的，數據一定是正確的，但我的解釋可能是錯的**
+主要想說的是，數據一定是正確的，但我的解釋可能是錯的**
 1.  string串接字元速度最快
 2.  該式子的先後順序應該是右式先進行，做完之後為字串再與左式字串做連接，而字串串接字串的效率比字元略差，導致降速<br>
 ``` C++
