@@ -15,12 +15,12 @@
 ``` C++
 //std::string next, str;
 //int same;
-// 1. this way spend time: 0 ms
+// 1. this way spend time: 0, 6, 7 ms
 next +='0'+same;
 next += str[s];
-// 2. this way spend time: 7 ms
+// 2. this way spend time: 18, 21, 23 ms
 next += to_string(same) + str[s];
-// 3. this way spend time: 121 ms
+// 3. this way spend time: 113, 120, 120 ms
 next = next + to_string(same) + str[s];
 ```
 ![submitted_result](./algorithms/cpp/0038/submitted_result.png)
@@ -28,7 +28,7 @@ next = next + to_string(same) + str[s];
 **以下內容都是根據結果進行的臆測，沒有跟組語對照過，所以存在理解錯誤的可能，因此不一定正確<br>
 但要說的，數據一定是正確的，但我的解釋可能是錯的**
 1.  string串接字元速度最快
-2.  該式子的先後順序應該是右式先進行，做完之後為字串再與左式字串做連接，而字串串接字串的效率比字元略差，導致7ms的降速<br>
+2.  該式子的先後順序應該是右式先進行，做完之後為字串再與左式字串做連接，而字串串接字串的效率比字元略差，導致降速<br>
 ``` C++
     next += to_string(same) + str[s];
 ->  next += combine_string;

@@ -62,11 +62,11 @@ C++中不同方式串接字串效率會有明顯的不同，詳細請看->[0038_
 ``` C++
 //std::string next, str;
 //int same;
-// 1. this way spend time: 0 ms
+// 1. this way spend time: 0, 6, 7 ms
 next +='0'+same;
 next += str[s];
-// 2. this way spend time: 7 ms
+// 2. this way spend time: 18, 21, 23 ms
 next += to_string(same) + str[s];
-// 3. this way spend time: 121 ms
+// 3. this way spend time: 113, 120, 120 ms
 next = next + to_string(same) + str[s];
 ```
