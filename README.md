@@ -53,3 +53,20 @@ tie是將兩個stream綁定的函數，空參數的話則返回當前的輸出�
 這樣會增加IO負擔，可以通過tie(0)(0表示NULL)來解除cin與cout的綁定，進一步加快執行效率<br>
 
 [詳細說明(來源)](https://www.hankcs.com/program/cpp/cin-tie-with-sync_with_stdio-acceleration-input-and-output.html)
+
+
+## C++ std::string 字串拼接效率分析
+
+C++中不同方式串接字串效率會有明顯的不同，詳細請看->[0038_README](./algorithms/cpp/0038/README.md)
+
+``` C++
+//std::string next, str;
+//int same;
+// 1. this way spend time: 0 ms
+next +='0'+same;
+next += str[s];
+// 2. this way spend time: 7 ms
+next += to_string(same) + str[s];
+// 3. this way spend time: 121 ms
+next = next + to_string(same) + str[s];
+```
