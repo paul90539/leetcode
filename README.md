@@ -19,12 +19,15 @@
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/0926.cpp)||Medium|DP
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)|[DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/0724.cpp)||Easy|Integral Image
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./algorithms/cpp/0692/0692.cpp)||Medium|HashMap
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)||Medium|Tree
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./algorithms/cpp/0038/0038.cpp)||Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./algorithms/cpp/0036/0036.cpp)||Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./algorithms/cpp/0021/0021.cpp)||Easy|LinkList
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./algorithms/cpp/0012/0012.cpp)||Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./algorithms/cpp/0011/0011.cpp)||Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./algorithms/cpp/0005/0005.cpp)||Medium|DP
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./algorithms/cpp/0004/0004.cpp)|[Binary Search](https://www.youtube.com/watch?v=LPFhl65R7ww)|Hard|Divide and Conquer
