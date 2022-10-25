@@ -12,6 +12,7 @@
 |-----|----------------|---------------|--------|-------------|-------------
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](./algorithms/cpp/2095/2095.cpp)||Medium|LinkList
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/1832.cpp)||Easy|
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](./algorithms/cpp/1662/1662.cpp)||Easy|
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/1531.cpp)|[DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](./algorithms/cpp/1480/1480.cpp)||Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/1448.cpp)||Medium|Tree
@@ -24,6 +25,7 @@
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](./algorithms/cpp/0876/0876.cpp)||Easy|LinkList
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/0724.cpp)||Easy|Integral Image
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./algorithms/cpp/0692/0692.cpp)||Medium|HashMap
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](./algorithms/cpp/0645/0645.cpp)|[indexing technique](https://www.youtube.com/watch?v=AK6hOsLqn1I)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)||Medium|Tree
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
