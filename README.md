@@ -10,6 +10,7 @@
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                  
 |-----|----------------|---------------|--------|-------------|-------------
+|2136|[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[Solution](./algorithms/cpp/2136/2136.cpp)||Hard|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](./algorithms/cpp/2095/2095.cpp)||Medium|LinkList
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/1832.cpp)||Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](./algorithms/cpp/1662/1662.cpp)||Easy|
@@ -23,6 +24,7 @@
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/0926.cpp)||Medium|DP
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)|[DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](./algorithms/cpp/0876/0876.cpp)||Easy|LinkList
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Solution](./algorithms/cpp/0766/0766.cpp)||Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/0724.cpp)||Easy|Integral Image
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./algorithms/cpp/0692/0692.cpp)||Medium|HashMap
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](./algorithms/cpp/0645/0645.cpp)|[indexing technique](https://www.youtube.com/watch?v=AK6hOsLqn1I)|Easy|
@@ -30,6 +32,7 @@
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./algorithms/cpp/0049/0049.cpp)||Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./algorithms/cpp/0038/0038.cpp)||Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./algorithms/cpp/0036/0036.cpp)||Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./algorithms/cpp/0021/0021.cpp)||Easy|LinkList
