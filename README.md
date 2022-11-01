@@ -13,10 +13,12 @@
 |2136|[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[Solution](./algorithms/cpp/2136/2136.cpp)||Hard|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](./algorithms/cpp/2095/2095.cpp)||Medium|LinkList
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/1832.cpp)||Easy|
+|1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Solution](./algorithms/cpp/1706/1706.cpp)||Medium|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](./algorithms/cpp/1662/1662.cpp)||Easy|
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/1531.cpp)|[DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](./algorithms/cpp/1480/1480.cpp)||Easy|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/1448.cpp)||Medium|Tree
+|1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Solution](./algorithms/cpp/1335/)||Hard|DP
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Solution](./algorithms/cpp/1239/1239.cpp)||Medium|DFS
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./algorithms/cpp/1155/1155.cpp)||Medium|DP
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Solution](./algorithms/cpp/0976/0976.cpp)||Easy|
