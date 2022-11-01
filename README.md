@@ -10,41 +10,41 @@
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                  
 |-----|----------------|---------------|--------|-------------|-------------
-|2136|[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[Solution](./algorithms/cpp/2136/2136.cpp)||Hard|
-|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](./algorithms/cpp/2095/2095.cpp)||Medium|LinkList
-|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/1832.cpp)||Easy|
-|1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Solution](./algorithms/cpp/1706/1706.cpp)||Medium|
-|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](./algorithms/cpp/1662/1662.cpp)||Easy|
-|1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/1531.cpp)|[DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
-|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](./algorithms/cpp/1480/1480.cpp)||Easy|
-|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/1448.cpp)||Medium|Tree
-|1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Solution](./algorithms/cpp/1335/)||Hard|DP
-|1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Solution](./algorithms/cpp/1239/1239.cpp)||Medium|DFS
-|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./algorithms/cpp/1155/1155.cpp)||Medium|DP
-|0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Solution](./algorithms/cpp/0976/0976.cpp)||Easy|
-|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/0954.cpp)||Medium|HashMap
-|926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/0926.cpp)||Medium|DP
-|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/0877.cpp)|[DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](./algorithms/cpp/0876/0876.cpp)||Easy|LinkList
-|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Solution](./algorithms/cpp/0766/0766.cpp)||Easy|
-|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/0724.cpp)||Easy|Integral Image
-|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./algorithms/cpp/0692/0692.cpp)||Medium|HashMap
-|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](./algorithms/cpp/0645/0645.cpp)|[indexing technique](https://www.youtube.com/watch?v=AK6hOsLqn1I)|Easy|
-|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/0429.cpp)||Medium|Tree
-|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/0415.cpp)||Easy|
-|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/0303.cpp)||Easy|Integral Image
-|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/0132.cpp)|[DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./algorithms/cpp/0049/0049.cpp)||Medium|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./algorithms/cpp/0038/0038.cpp)||Medium|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./algorithms/cpp/0036/0036.cpp)||Medium|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./algorithms/cpp/0021/0021.cpp)||Easy|LinkList
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./algorithms/cpp/0012/0012.cpp)||Medium|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./algorithms/cpp/0011/0011.cpp)||Medium|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./algorithms/cpp/0005/0005.cpp)||Medium|DP
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./algorithms/cpp/0004/0004.cpp)|[Binary Search](https://www.youtube.com/watch?v=LPFhl65R7ww)|Hard|Divide and Conquer
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./algorithms/cpp/0003/0003.cpp)|[HashMap](https://www.youtube.com/watch?v=3IETreEybaA)|Medium|HashMap, Sliding Window
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./algorithms/cpp/0002/0002.cpp)||Medium|LinkList
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./algorithms/cpp/0001/0001.cpp)|[HashMap](https://www.youtube.com/watch?v=kPXOr6pW8KM)|Easy|HashMap
+|2136|[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[Solution](./algorithms/cpp/2136/)||Hard|
+|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](./algorithms/cpp/2095/)||Medium|LinkList
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/)||Easy|
+|1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Solution](./algorithms/cpp/1706/)||Medium|
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](./algorithms/cpp/1662/)||Easy|
+|1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/)|[DP](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|DP
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](./algorithms/cpp/1480/)||Easy|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/)||Medium|Tree
+|1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Solution](./algorithms/cpp/1335/)|[DP](https://www.youtube.com/watch?v=eRBpfoWujQM)|Hard|DP
+|1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Solution](./algorithms/cpp/1239/)||Medium|DFS
+|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./algorithms/cpp/1155/)||Medium|DP
+|0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Solution](./algorithms/cpp/0976/)||Easy|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/)||Medium|HashMap
+|926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/)||Medium|DP
+|877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/)|[DP](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|DP
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](./algorithms/cpp/0876/)||Easy|LinkList
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Solution](./algorithms/cpp/0766/)||Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/)||Easy|Integral Image
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./algorithms/cpp/0692/)||Medium|HashMap
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](./algorithms/cpp/0645/)|[indexing technique](https://www.youtube.com/watch?v=AK6hOsLqn1I)|Easy|
+|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/)||Medium|Tree
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/)||Easy|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/)||Easy|Integral Image
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./algorithms/cpp/0132/)|[DP](https://www.youtube.com/watch?v=lDYIvtBVmgo)|Hard|DP
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./algorithms/cpp/0049/)||Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./algorithms/cpp/0038/)||Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./algorithms/cpp/0036/)||Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./algorithms/cpp/0021/)||Easy|LinkList
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./algorithms/cpp/0012/)||Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./algorithms/cpp/0011/)||Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./algorithms/cpp/0005/)||Medium|DP
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./algorithms/cpp/0004/)|[Binary Search](https://www.youtube.com/watch?v=LPFhl65R7ww)|Hard|Divide and Conquer
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./algorithms/cpp/0003/)|[HashMap](https://www.youtube.com/watch?v=3IETreEybaA)|Medium|HashMap, Sliding Window
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./algorithms/cpp/0002/)||Medium|LinkList
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./algorithms/cpp/0001/)|[HashMap](https://www.youtube.com/watch?v=kPXOr6pW8KM)|Easy|HashMap
 
 ## 與題目無關的加速問題(C++的輸入輸出保護)
 
