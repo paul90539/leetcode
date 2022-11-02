@@ -30,6 +30,7 @@
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](./algorithms/cpp/0724/)||Easy|Integral Image
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./algorithms/cpp/0692/)||Medium|HashMap
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](./algorithms/cpp/0645/)|[indexing technique](https://www.youtube.com/watch?v=AK6hOsLqn1I)|Easy|
+|433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Solution](./algorithms/cpp/0433/)||Medium|BFS
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution](./algorithms/cpp/0429/)||Medium|Tree
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](./algorithms/cpp/0415/)||Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](./algorithms/cpp/0303/)||Easy|Integral Image
