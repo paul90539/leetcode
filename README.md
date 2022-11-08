@@ -20,6 +20,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](./algorithms/cpp/1832/)||Easy|97.82%|
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Solution](./algorithms/cpp/1706/)||Medium|94.41%|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](./algorithms/cpp/1662/)||Easy|91.73%|
+|1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)|[Solution](./algorithms/cpp/1544/)||Easy|95.84%|
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/)|[Solution](./algorithms/cpp/1531/)|[:film_strip:](https://www.youtube.com/watch?v=UIK00l_AiPQ)|Hard|93.06%|DP
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|[Solution](./algorithms/cpp/1480/)||Easy|95.69%|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](./algorithms/cpp/1448/)||Medium|97.33%|Tree
