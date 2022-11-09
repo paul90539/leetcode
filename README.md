@@ -31,6 +31,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Solution](./algorithms/cpp/0976/)||Easy|87.93%|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/)||Medium|90.73%|HashMap
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/)||Medium|95.80%|DP
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)|[Solution](./algorithms/cpp/0901/)||Medium|93.81%|Stack
+|899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[Solution](./algorithms/cpp/0899/)||Hard|72.28%|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./algorithms/cpp/0877/)|[:film_strip:](https://www.youtube.com/watch?v=WxpIHvsu1RI)|Medium|50.59%|DP
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](./algorithms/cpp/0876/)||Easy|97.31%|LinkList
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Solution](./algorithms/cpp/0766/)||Easy|95.36%|
