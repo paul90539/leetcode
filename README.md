@@ -28,6 +28,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Solution](./algorithms/cpp/1323/)||Easy|91.87%|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Solution](./algorithms/cpp/1239/)||Medium|93.40%|DFS
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./algorithms/cpp/1155/)||Medium|96.91%|DP
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)|[Solution](./algorithms/cpp/1047/)||Easy|96.17%|Stack
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Solution](./algorithms/cpp/0976/)||Easy|87.93%|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Solution](./algorithms/cpp/0954/)||Medium|90.73%|HashMap
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](./algorithms/cpp/0926/)||Medium|95.80%|DP
